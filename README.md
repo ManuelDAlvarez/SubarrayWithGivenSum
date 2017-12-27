@@ -1,5 +1,5 @@
 # SubarrayWithGivenSum
-Practicing python with common Exercise
+Practicing python with common Exercise. Please feel free to comment, provide improvements, and call out errors.
 
 This exercise is taken from https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0
 
